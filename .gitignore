@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Models and Data (Large/Private)
+models/
+data/
+*.zip
+*.tar.gz
+*.7z
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+train_err.txt
+pip_err.log
